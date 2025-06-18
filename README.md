@@ -7,8 +7,10 @@ https://github.com/creativetimofficial/material-dashboard
 
 ## Para levantar el contenedor ejecuta los siguientes comandos desde tu terminal:
 
-$git clone https://github.com/Ironcapi/final.git 
+$git clone https://github.com/Ironcapi/final.git
+
 $cd final/
+
 $docker compose up -d
 
 ## Una vez ejecutados los comandos ingresa a localhost desde tu navegador al puerto 86
