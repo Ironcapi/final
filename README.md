@@ -21,8 +21,13 @@ Usuario: admin
 
 contraseña: admin
 
-## Si desea ingresar a la base de datos desde la terminal la informacion es la siguiente:
+## Si desea ingresar a la base de datos desde la terminal utiliza los siguientes comandos:
 
-Nombre del contenedor con la base de datos: mariadb-container
-contraseña de root: root
+$docker exec -it mariadb-container bash
+
+$mysql -u root -p -h localhost
+
+Contaseña de root: root
+
+
 
