@@ -18,6 +18,7 @@ $docker compose up -d
 http://localhost:86/
 
 Usuario: admin
+
 contraseña: admin
 
 ## Si desea ingresar a la base de datos desde la terminal la informacion es la siguiente:
